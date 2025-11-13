@@ -14,5 +14,5 @@ header h1{
 }
 section h2{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
