@@ -1,4 +1,6 @@
-Structure du projet
+Description du projet
+
+Mercato Foot est un site web dédié aux transferts de football. Il permet aux utilisateurs de suivre les dernières actualités, rumeurs et transferts confirmés des joueurs. Le site est conçu pour être clair, attractif et facile à naviguer, avec des images et des icônes pour enrichir l’expérience utilisateur.Structure du projet
 
 index.html : page principale du site.
 
@@ -37,3 +39,4 @@ Contenu principal : J’ai utilisé sa balise main pour contenir le contenu prin
 Pied de page : J’ai utilisé sa balise footer pour afficher les droits d’auteur.
 
 Encodage et style :J’ai utilisé sa balise meta charset pour définir l’encodage et sa balise <link> pour lier le fichier CSS externe.
+
