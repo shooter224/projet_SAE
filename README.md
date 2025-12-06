@@ -22,18 +22,18 @@ Images : pour illustrer le contenu et rendre le site plus attractif.
 
 Fonctionnalités principales
 
-En-tête et navigation : J’ai utilisé sa balise <header> pour créer l’en-tête de la page et sa balise <nav> pour ajouter un menu de navigation.
+En-tête et navigation : J’ai utilisé sa balise header pour créer l’en-tête de la page et sa balise nav pour ajouter un menu de navigation.
 
-Sections et titres : J’ai utilisé sa balise <section> pour organiser le contenu en parties et sa balise <h2> pour mettre des titres à chaque section.
+Sections et titres : J’ai utilisé sa balise section pour organiser le contenu en parties et sa balise h2 pour mettre des titres à chaque section.
 
-Listes de transferts : J’ai utilisé sa balise <ul> et <li> pour lister les derniers transferts.
+Listes de transferts : J’ai utilisé sa balise ul et li pour lister les derniers transferts.
 
-Images : J’ai utilisé sa balise <img> pour insérer des images et sa attribut alt pour décrire chaque image.
+Images : J’ai utilisé sa balise img pour insérer des images et sa attribut alt pour décrire chaque image.
 
 Icônes : J’ai utilisé FontAwesome pour ajouter des icônes, par exemple les icone meta.
 
-Contenu principal : J’ai utilisé sa balise <main> pour contenir le contenu principal.
+Contenu principal : J’ai utilisé sa balise main pour contenir le contenu principal.
 
-Pied de page : J’ai utilisé sa balise <footer> pour afficher les droits d’auteur.
+Pied de page : J’ai utilisé sa balise footer pour afficher les droits d’auteur.
 
-Encodage et style :J’ai utilisé sa balise <meta charset> pour définir l’encodage et sa balise <link> pour lier le fichier CSS externe.
+Encodage et style :J’ai utilisé sa balise meta charset pour définir l’encodage et sa balise <link> pour lier le fichier CSS externe.
