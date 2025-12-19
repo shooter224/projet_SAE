@@ -44,3 +44,6 @@ Encodage et style :J’ai utilisé sa balise meta charset pour définir l’enco
                     
 https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fshooter224.github.io%2Fprojet_SAE%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr
 
+LIEN TRELLO :
+https://trello.com/invite/b/691894c384259a341f0adf78/ATTI74e6f5cbf114b229410b27a9f2febee297CCC431/conduite-de-projet
+
