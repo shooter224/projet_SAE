@@ -40,4 +40,7 @@ Contenu principal : J’ai utilisé sa balise main pour contenir le contenu prin
 Pied de page : J’ai utilisé sa balise footer pour afficher les droits d’auteur.
 
 Encodage et style :J’ai utilisé sa balise meta charset pour définir l’encodage et sa balise <link> pour lier le fichier CSS externe.
+                    validation W3C LIEN :
+                    
+https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fshooter224.github.io%2Fprojet_SAE%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr
 
