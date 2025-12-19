@@ -26,7 +26,7 @@ Fonctionnalités principales
 
 En-tête et navigation : J’ai utilisé sa balise header pour créer l’en-tête de la page et sa balise nav pour ajouter un menu de navigation.
 
-le lien du site :https://github.com/shooter224/projet_SAE
+le lien du site : https://shooter224.github.io/projet_SAE/
 Sections et titres : J’ai utilisé sa balise section pour organiser le contenu en parties et sa balise h2 pour mettre des titres à chaque section.
 
 Listes de transferts : J’ai utilisé sa balise ul et li pour lister les derniers transferts.
